@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #E4F9F5;
+}
+
+h1 {
+  margin-top: 30px;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  margin-bottom: -30px;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-top: 6px dotted;
+  width: 5%;
+  margin: 0 auto;
+  color: Lightgray;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+}
+.paragraf {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.main-containers {
+  padding-top: 50px;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+}
+
+.middle-container {}
+
+.bottom-container {
+  background-color: #66BFBF;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.computer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+}
+
+.chillies-picture {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-picture {
+  width: 20%;
+}
+
+.footer-link-1 {
+  color: black;
+  text-decoration: none;
+  margin-right: 30px;
+}
+
+.footer-link-2 {
+  color: black;
+  text-decoration: none;
+}
+
+.footer-link-3 {
+  color: black;
+  text-decoration: none;
+  margin-left: 30px;
+}
+
+.drepturi-autor {
+  padding-bottom: 30px;
+  color: white;
+  font-size: 75%;
+  margin-bottom: -30px;
+  margin-top: 35px;
+}
+
+.btn {
+  background-image: linear-gradient(to right, #4CB8C4 0%, #3CD3AD 51%, #4CB8C4 100%)
+}
+
+.btn {
+  margin: 20px 440px 20px 440px;
+  font-size: 80%;
+  padding: 10px 25px;
+  text-align: center;
+  transition: 0.5s;
+  text-transform: uppercase;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: inline-block;
+  text-decoration: none;
+  position: relative;
+}
+
+.btn:hover {
+  background-position: right center;
+  /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
